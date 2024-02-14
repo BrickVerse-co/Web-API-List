@@ -4,7 +4,7 @@ List of all API sites, some may be poorly documented.
 ## Standard APIs
 | Site | Description |
 | -: | :- |
-| [ads.brickverse.gg](https://cdn.brickverse.gg/docs) | Ads Serving, CDN, and API. |
+| [ads.brickverse.gg](https://ads.brickverse.gg/docs) | Ads Serving, CDN, and API. |
 | [artifacts.brickverse.gg](https://artifacts.brickverse.gg/docs) | Current & Past Client & Server Distribution Binaries for Linux, Windows, and MacOS. |
 | [analytics.brickverse.gg](https://analytics.brickverse.gg/docs) | Site & Executeable Application Anonymous Analytics. |
 | [api.brickverse.gg](https://api.brickverse.gg/docs) | Standard Site Web API. |
