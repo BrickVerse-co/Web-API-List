@@ -20,10 +20,16 @@ List of all API sites, some may be poorly documented.
 | [memcache.brickverse.gg](https://memcache.brickverse.gg/) | Legacy memcache. |
 | [mobile.brickverse.gg](https://mobile.brickverse.gg) | Mobile Site (deprecated). |
 | [render.brickverse.gg](https://render.brickverse.gg/docs) | Avatar Rendering (deprecated). |
+| [presence.brickverse.gg](https://presence.brickverse.gg/docs) | Activity presence. |
+| [share.brickverse.gg](https://share.brickverse.gg/docs) | Share links. |
+| [translation.brickverse.gg](https://translation.brickverse.gg/docs) | Game translations. |
+| [voice.brickverse.gg](https://voice.brickverse.gg/docs) | Voice calls. |
+| [publish.brickverse.gg](https://publish.brickverse.gg/docs) | File uploads. |
 
 ## Non-APIs/Portals
 | Site | Description |
 | -: | :- |
+| [abtesting.brickverse.gg](https://abtesting.brickverse.gg/) | A/B Testing framework similar to staging. |
 | [admin.brickverse.gg](https://admin.brickverse.gg/docs) | Administration portal (Staff Authentication required). |
 | [appeal.brickverse.gg](https://appeal.brickverse.gg/docs) | Appeal moderation actions. |
 | [devex.brickverse.gg](https://devex.brickverse.gg/) | Developer Exchange. |
