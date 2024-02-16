@@ -1,6 +1,9 @@
 # Web-API-List
 List of all API sites, some may be poorly documented.
 
+## Artifacts
+artifacts.brickverse.gg hosts the binaries, for a user-friendly UX Version go to uiartifacts.brickverse.gg to view binaries.
+
 ## Standard APIs
 | Site | Description |
 | -: | :- |
