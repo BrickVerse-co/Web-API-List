@@ -4,12 +4,13 @@ List of all API sites, some may be poorly documented.
 ## Standard APIs
 | Site | Description |
 | -: | :- |
+| [assetcdn.brickverse.gg](https://assetcdn.brickverse.gg/) | Asset CDN utilized for all developer assets (clothing, sound, accessories, etc.)  |
 | [ads.brickverse.gg](https://ads.brickverse.gg/docs) | Ads Serving, CDN, and API. |
 | [artifacts.brickverse.gg](https://artifacts.brickverse.gg/docs) | Current & Past Client & Server Distribution Binaries for Linux, Windows, and MacOS. |
 | [analytics.brickverse.gg](https://analytics.brickverse.gg/docs) | Site & Executeable Application Anonymous Analytics. |
 | [api.brickverse.gg](https://api.brickverse.gg/docs) | Standard Site Web API. |
 | [authcdn.brickverse.gg](https://authcdn.brickverse.gg/docs) | Authentication Portal CDN. |
-| [cdn.brickverse.gg](https://cdn.brickverse.gg/docs) | General CDN. |
+| [cdn.brickverse.gg](https://cdn.brickverse.gg/docs) | General CDN utilized for the website |
 | [challenge.brickverse.gg](https://challenge.brickverse.gg/docs) | Authentication challenges. |
 | [client.brickverse.gg](https://artifacts.brickverse.gg/docs) | Client API. |
 | [connections.brickverse.gg](https://connections.brickverse.gg/docs) | brickl.ink's. |
