@@ -34,6 +34,7 @@ artifacts.brickverse.gg hosts the binaries, for a user-friendly UX Version go to
 | Site | Description |
 | -: | :- |
 | [abtesting.brickverse.gg](https://abtesting.brickverse.gg/) | A/B Testing framework similar to staging. |
+| [avatarstudio.brickverse.gg](https://avatarstudio.brickverse.gg/index.html) | Avatar Development Studio. |
 | [admin.brickverse.gg](https://admin.brickverse.gg/docs) | Administration portal (Staff Authentication required). |
 | [appeal.brickverse.gg](https://appeal.brickverse.gg/docs) | Appeal moderation actions. |
 | [devex.brickverse.gg](https://devex.brickverse.gg/) | Developer Exchange. |
