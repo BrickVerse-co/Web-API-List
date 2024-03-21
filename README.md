@@ -25,7 +25,7 @@ artifacts.brickverse.gg hosts the binaries, for a user-friendly UX Version go to
 | [mobile.brickverse.gg](https://mobile.brickverse.gg) | Mobile Site (deprecated). |
 | [render.brickverse.gg](https://render.brickverse.gg/docs) | Avatar Rendering (deprecated). |
 | [presence.brickverse.gg](https://presence.brickverse.gg/docs) | Activity presence. |
-| [share.brickverse.gg](https://share.brickverse.gg/docs) | Share links. |
+| [share.brickverse.gg](https://share.brickverse.gg/docs) | Share links (deprecated, migrated to connections.brickverse.gg). |
 | [translation.brickverse.gg](https://translation.brickverse.gg/docs) | Game translations. |
 | [voice.brickverse.gg](https://voice.brickverse.gg/docs) | Voice calls. |
 | [publish.brickverse.gg](https://publish.brickverse.gg/docs) | File uploads. |
