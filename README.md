@@ -37,6 +37,7 @@ artifacts.brickverse.gg hosts the binaries, for a user-friendly UX Version go to
 | [avatarstudio.brickverse.gg](https://avatarstudio.brickverse.gg/index.html) | Avatar Development Studio. |
 | [admin.brickverse.gg](https://admin.brickverse.gg/docs) | Administration portal (Staff Authentication required). |
 | [appeal.brickverse.gg](https://appeal.brickverse.gg/docs) | Appeal moderation actions. |
+| [bounty.brickverse.gg](https://bounty.brickverse.gg/) | Bug bounty portal. |
 | [devex.brickverse.gg](https://devex.brickverse.gg/) | Developer Exchange. |
 | [devop.brickverse.gg](https://devop.brickverse.gg/) | Developer Operations (DevOP) (Staff Authentication required). |
 | [discourse.brickverse.gg](https://discourse.brickverse.gg/) | Forum. |
@@ -52,6 +53,7 @@ artifacts.brickverse.gg hosts the binaries, for a user-friendly UX Version go to
 | [talent.brickverse.gg](https://talent.brickverse.gg/) | Talent Portal. |
 | [toolbox.brickverse.gg](https://toolbox.brickverse.gg/) | Developer Toolbox. |
 | [transactions.brickverse.gg](https://transactions.brickverse.gg/) | Transactions Portal. |
+| [servers.brickverse.gg](https://servers.brickverse.gg/) | Manage universe servers. |
 | [vault.brickverse.gg](https://vault.brickverse.gg/) | Developer Vault. |
 | [developers.brickverse.gg](https://developers.brickverse.gg/) | Developer Documentation. |
 | [resources.brickverse.gg](https://resources.brickverse.gg/) | Community Resources. |
