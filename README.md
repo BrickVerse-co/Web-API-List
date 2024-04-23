@@ -51,6 +51,7 @@ artifacts.brickverse.gg hosts the binaries, for a user-friendly UX Version go to
 | [repository.brickverse.gg](https://repository.brickverse.gg/) | Manage a experience in a Git repository style. |
 | [staging.brickverse.gg](https://staging.brickverse.gg/) | Development Staging (Staff Authentication required). |
 | [talent.brickverse.gg](https://talent.brickverse.gg/) | Talent Portal. |
+| [familycenter.brickverse.gg](https://familycenter.brickverse.gg/) | Family Center Portal for Parent accounts to manage Child accounts. |
 | [toolbox.brickverse.gg](https://toolbox.brickverse.gg/) | Developer Toolbox. |
 | [transactions.brickverse.gg](https://transactions.brickverse.gg/) | Transactions Portal. |
 | [servers.brickverse.gg](https://servers.brickverse.gg/) | Manage universe servers. |
